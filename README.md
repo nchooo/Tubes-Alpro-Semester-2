@@ -29,3 +29,9 @@ File tubes.go adalah sebuah program berbasis terminal yang ditulis dalam bahasa 
 
 * Fungsi clearScreen() untuk membersihkan tampilan terminal agar lebih rapi.
 * Tampilan antarmuka dengan padding agar semua output berada di tengah layar.
+
+Kelompok 6:
+
+Muhammad Cheng Ho Pulungan (103032400146)
+
+Zeifira Naila Syakira (103032400082)
