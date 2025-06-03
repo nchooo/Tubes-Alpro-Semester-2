@@ -1,6 +1,8 @@
 # Tubes-Alpro-Semester-2
 Judul: Program Manajemen Data Pegawai
+
 Bahasa: Go (Golang)
+
 Deskripsi Singkat:
 
 File tubes.go adalah sebuah program berbasis terminal yang ditulis dalam bahasa Go untuk mengelola data pegawai. Program ini menyediakan menu interaktif untuk melakukan berbagai operasi terhadap data pegawai yang disimpan dalam array statis, seperti:
